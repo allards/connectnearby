@@ -1,6 +1,5 @@
 $(window).ready () ->
 
-
     handlePositionError = (error) ->
         switch error
             when error.PERMISSION_DENIED then message = 'Permission denied'
