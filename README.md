@@ -2,6 +2,7 @@ connectnearby
 =============
 
 Facebook Find Friends Nearby Clone
+
 This little HTML5 app should run in modern desktop and mobile browsers. The app will show people who have surfed to the app's homepage, have logged with Facebook and are physically nearby. It can be an easier way for adding someone you are meeting as a Facebook friend. You can see the app in action here:
 http://connect.othercircles.com
 
